@@ -7,6 +7,6 @@
         "start": "node index.js"
     },
     "dependencies": {
-        "web3": "^1.5.2"
+        "web3": "^1.8.0"
     }
 }
