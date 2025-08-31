@@ -1,0 +1,12 @@
+{
+    "name": "he-thong-quan-ly-vay-no-blockchain",
+    "version": "1.0.0",
+    "description": "Hệ thống quản lý vay nợ dựa trên blockchain",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "web3": "^1.5.2"
+    }
+}
